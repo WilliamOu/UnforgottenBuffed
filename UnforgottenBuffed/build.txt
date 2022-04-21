@@ -1,0 +1,4 @@
+displayName = [c/FF005E:Spirit Blossom] ([c/EC1B9D:The Stars Above] Addon)
+author = Shimadacat
+version = 1.0
+modReferences = StarsAbove

@@ -1,0 +1,3 @@
+A fan-made addon for [c/EC1B9D:The Stars Above] that allows you to craft the [c/FF005E:Spirit Blossom] as an upgrade to the Unforgotten.
+
+Note that abilities, though similarly named, do function exactly the same as their League of Legends counterparts.

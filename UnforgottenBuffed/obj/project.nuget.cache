@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tj/aO0i60wCKGFBsCi5HMMg6qnmQwvYVNIPPUBNGXeR1ZnDEO3iJddXteHTKnWFDjGPZatWinpvFNCfBX7J8IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z370\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\UnforgottenBuffed\\UnforgottenBuffed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z370\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
